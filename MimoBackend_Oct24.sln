@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MimoBackend_Oct24.API", "MimoBackend_Oct24.API\MimoBackend_Oct24.API.csproj", "{AE8D0D5B-F4C6-4F5C-AB86-459E1D64ED77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MimoBackend_Oct24.Tests", "MimoBackend_Oct24.Tests\MimoBackend_Oct24.Tests.csproj", "{9DFE365C-6159-4FAC-80C3-39BC58A0927A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE8D0D5B-F4C6-4F5C-AB86-459E1D64ED77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE8D0D5B-F4C6-4F5C-AB86-459E1D64ED77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE8D0D5B-F4C6-4F5C-AB86-459E1D64ED77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE8D0D5B-F4C6-4F5C-AB86-459E1D64ED77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DFE365C-6159-4FAC-80C3-39BC58A0927A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DFE365C-6159-4FAC-80C3-39BC58A0927A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DFE365C-6159-4FAC-80C3-39BC58A0927A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DFE365C-6159-4FAC-80C3-39BC58A0927A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
